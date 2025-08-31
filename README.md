@@ -1,26 +1,63 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3300CC&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3300CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Fernandes;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Marcelo Fernandes 👋</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marceloDev0&show_icons=true&count_private=true&hide_border=true&title_color=3300CC&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Marcelo Fernandes github stats" /> 
-  
+<p align="center">
+  🎓 Information Technology Student<br>
+  📍 Brazil | 20 years old<br>
+  💻 Passionate about software development and web technologies
+</p>
+
+---
+
+### 🚀 Main Skills
+
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=ffa500)
+![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
+
+---
+
+### 📚 Currently Learning
+
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=marceloDev0&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloDev0&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marceloDev0&bg_color=0d1117&color=3300CC&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
- ### Main skills:
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=blue&labelColor=0D1117)&nbsp; 
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=ffa500&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
+### 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marceloDev0&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+</div>
 
-### Social media:
+---
 
-<div align="center"> 
-<a href="https://instagram.com/m.augustoq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:marcelofernandes22pm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+### 📬 Contact
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3300CC&height=120&section=footer"/>
+<p align="center">
+  <a href="https://instagram.com/m.augustoq" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:marcelofernandes22pm@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"All that is gold does not glitter, not all those who wander are lost."</i></p>
+
+<!-- Footer fix: using same "waving" but placing it in header type to keep design consistent -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
