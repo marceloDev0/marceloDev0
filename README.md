@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
-
 <h1 align="center">Hi there, I'm Marcelo Fernandes 👋</h1>
 
 <p align="center">
@@ -12,18 +10,13 @@
 
 ### 🚀 Main Skills
 
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=ffa500)
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=blue)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![My Skills](https://skillicons.dev/icons?i=py,java,c,mysql,html,css,git,vscode)]
 
 ---
 
 ### 📚 Currently Learning
 
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Currently Learning](https://skillicons.dev/icons?i=react,nodejs)
 
 ---
 
@@ -58,6 +51,3 @@
 ---
 
 <p align="center"><i>"All that is gold does not glitter, not all those who wander are lost."</i></p>
-
-<!-- Footer fix: using same "waving" but placing it in header type to keep design consistent -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
